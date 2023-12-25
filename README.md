@@ -13,7 +13,7 @@
 
   <h2>Screenshots</h2>
 
-  <img src='Screenshot_1.png' alt='program'>
+  <img src='program.png' alt='program'>
 
   <h2>How to Use</h2>
 
