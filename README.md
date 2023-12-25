@@ -19,9 +19,9 @@
 
   <p>Run the Python script to launch the Contact Book application. Fill in the contact details in the respective fields and click the "Save" button to save the contact information to the "mycontacts.txt" file. Input validation ensures that correct phone numbers and email addresses are entered.</p>
 
-    ```python
+  ```python
     python contact.py
-    ```
+  ```
 
   <h2>Dependencies</h2>
 
